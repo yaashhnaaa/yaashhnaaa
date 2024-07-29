@@ -13,7 +13,10 @@
 <a href="https://www.linkedin.com/in/yashna-singh-3158422a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashna-singh-3158422a9/" height="30" width="40" /></a>
 <a href="https://www.stopstalk.com/user/profile/yaashhnaa" target="blank"><img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="https://www.stopstalk.com/user/profile/yaashhnaa" height="30" width="30" /></a>
 <a href="https://leetcode.com/u/singhyashna18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/singhyashna18/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/2201640130129_IT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.hackerrank.com/profile/2201640130129_IT" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/2201640130129_IT" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="HackerRank Profile" height="30" width="40" />
+</a>
+
 <a href=https://www.codechef.com/users/yaashhnaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.codechef.com/users/yaashhnaa" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
