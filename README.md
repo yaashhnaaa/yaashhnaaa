@@ -1,12 +1,12 @@
 <!-- (https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg?fj=1) -->
 <h1 align="center">Hi 👋, I'm Yashna Singh</h1>
-<h3 align="center">Competitive Programmer</h3>
+<h3 align="center">Competitive Programmer and AIML Programmwer</h3>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🌱 I’m currently learning ** Web Development **
+- 🌱 I’m currently learning ** Django **
 
-- 📫 How to reach me **vyuvrajsingh98@gmail.com**
+- 📫 How to reach me **singhyashna18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
