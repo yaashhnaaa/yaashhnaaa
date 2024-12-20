@@ -4,7 +4,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🌱 I’m currently learning ** Django **
+- 🌱 I’m currently learning ** Reinforcement learning **
 
 - 📫 How to reach me **singhyashna18@gmail.com**
 
