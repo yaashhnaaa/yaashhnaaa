@@ -27,5 +27,5 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yaashhnaaa&" alt="meetsingh0202" width = "390"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yaashhnaaa&" alt="yaashhnaaa" width = "390"/>
   </p>
